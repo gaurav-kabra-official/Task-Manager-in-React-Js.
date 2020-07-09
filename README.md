@@ -17,4 +17,4 @@ npm start
 
 # Live Demo
 
-I have deployed this project on Heroku, a Salesforce subsidiary [here] (https://radiant-mountain-61498.herokuapp.com/)
+I have deployed this project on Heroku, a Salesforce subsidiary (here)[https://radiant-mountain-61498.herokuapp.com/]
