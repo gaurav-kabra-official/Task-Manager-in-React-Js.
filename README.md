@@ -1,5 +1,5 @@
 # About
-This is Task Manager built in React Js library for front-end, maintained by Facebook.
+This is Task Manager built in React Js library for front-end, maintained by Facebook
 
 # Author
 Gaurav Kabra
